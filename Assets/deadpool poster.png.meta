@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 3b2cbb304ba7566438ca2ee226fccc44
+timeCreated: 1496227285
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deadpool poster_0
+    21300002: deadpool poster_1
+    21300004: deadpool poster_2
+    21300006: deadpool poster_3
+    21300008: deadpool poster_4
+    21300010: deadpool poster_5
+    21300012: deadpool poster_6
+    21300014: deadpool poster_7
+    21300016: deadpool poster_8
+    21300018: deadpool poster_9
+    21300020: deadpool poster_10
+    21300022: deadpool poster_11
+    21300024: deadpool poster_12
+    21300026: deadpool poster_13
+    21300028: deadpool poster_14
+    21300030: deadpool poster_15
+    21300032: deadpool poster_16
+    21300034: deadpool poster_17
+    21300036: deadpool poster_18
+    21300038: deadpool poster_19
+    21300040: deadpool poster_20
+    21300042: deadpool poster_21
+    21300044: deadpool poster_22
+    21300046: deadpool poster_23
+    21300048: deadpool poster_24
+    21300050: deadpool poster_25
+    21300052: deadpool poster_26
+    21300054: deadpool poster_27
+    21300056: deadpool poster_28
+    21300058: deadpool poster_29
+    21300060: deadpool poster_30
+    21300062: deadpool poster_31
+    21300064: deadpool poster_32
+    21300066: deadpool poster_33
+    21300068: deadpool poster_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deadpool poster_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
