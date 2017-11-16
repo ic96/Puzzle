@@ -78,9 +78,9 @@ public class PopupAnimation : MonoBehaviour
         StopCoroutine("BubbleAnimation");
     }
 
-    void AnimController(float ammount, int gear)
+    void AnimController(float amount, int gear)
     {
-        rate += Time.deltaTime * ammount * gear;
+        rate += Time.deltaTime * amount * gear;
         xlength += rate * gear;
         ylength += rate * gear;
         xpos += rate / 2 * gear;
